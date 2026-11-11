@@ -6,7 +6,7 @@ A bored boy finds a laptop in room 732 that controls the whole hotel. He kills a
 
 You are dead, not gone. Borrow the living, climb seven floors, and break the laptop before he empties the hotel.
 
-**[Play it in your browser](index.html)** (enable GitHub Pages on this repo and it runs at `https://<your-username>.github.io/room-732/`)
+**[Play it in your browser](https://mohib-ur-rehman-automation.github.io/room-732/)** (enable GitHub Pages on this repo and it runs at `https://<your-username>.github.io/room-732/`)
 
 ![Gameplay](screenshot.png)
 
