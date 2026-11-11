@@ -35,7 +35,7 @@ He learns as the night goes on: grabbing people, dropping furniture, melting doo
 
 One HTML file. No libraries, no images, no build step. Graphics are drawn on a canvas and all music and sound are synthesized in the browser.
 
-Concept and direction by the repo owner. Code written by Claude  (Anthropic).
+Concept and direction by the Mohib Ur Rehman. Code written by Claude  (Anthropic).
 
 ## License
 
